@@ -1,0 +1,7 @@
+{
+  "name": "Artify",
+  "description": "A premier marketplace connecting artists and buyers.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
